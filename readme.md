@@ -9,8 +9,6 @@ The goals / steps of this project are the following:
 * Use the model to make predictions on new images
 * Analyze the softmax probabilities of the new images
 
-**Final report with [code and results](./report.html)**
-
 [//]: # (Image References)
 
 [dataset-visualization]: ./dataset-distribution.png "Dataset Visualization"
